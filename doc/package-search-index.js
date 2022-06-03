@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"dev.darshit.jthrottler"},{"l":"dev.darshit.jthrottler.example"}]
